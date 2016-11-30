@@ -217,10 +217,10 @@ section {
       font-size: 30px; }
     section.features .feature-item i {
       font-size: 80px;
-      background: -webkit-linear-gradient(to left, #201548, #3a1a9c);
-      background: linear-gradient(to left, #201548, #3a1a9c);
+      background: #3a1a9c;
       -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent; }
+      -webkit-text-fill-color: transparent;
+      }
   section.cta {
     position: relative;
     -webkit-background-size: cover;
